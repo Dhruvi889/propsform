@@ -1,0 +1,94 @@
+.form1 {
+  background-color: rgb(134, 90, 131);
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+}
+
+.mainform {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.inputname {
+  width: 50%;
+  margin-top: 10px;
+  padding: 18px;
+}
+
+.aab {
+  display: flex;
+  gap: 20px;
+}
+
+.emailinput {
+  width: 100%;
+  padding: 18px;
+  margin-top: 10px;
+}
+
+.texa {
+  width: 100%;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.mainbuttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.btn09{
+  display: flex;
+  gap: 20px;
+}
+.subbtn{
+  background-color: bisque;
+  border: none;
+  border-radius: 10px;
+  padding: 18px;
+}
+.sortselected{
+  display: flex;
+  gap: 20px;
+}
+.deletebtns{
+  background-color: red;
+  color: white;
+  padding: 18px;
+  border: none;
+  font-weight: 600;
+}
+.tablemain{
+  border: 1px solid black;
+  margin-top: 30px;
+}
+.trtables{
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+.trtabless{
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(96, 110, 75);
+  color: white;
+}
+.supertb{
+  display: flex;
+  justify-content: center;
+}
+.editbtn{
+ padding: 5px;
+  border: none;
+  border-radius: 10px;
+  width: 70px;
+  background-color: green;
+  color: white;
+}
